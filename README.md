@@ -5,8 +5,7 @@ Meu nome é Renata Garcia
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 ### Você pode entrar em contato comigo 📫
 Renatatanze@gmail.com
-![](<iframe src="https://giphy.com/embed/PnrgGSqWqgHVU53JbH" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dr-stone-senku-ishigami-PnrgGSqWqgHVU53JbH">via GIPHY</a></p>)
-<!--
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQzdGEyNzFvbnhkb3p3ZnRkbnp1NTNka2NnMDBkcmtubDZvYms5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H55l0bcEOOqWqlrNbt/giphy.gif)
 **TTRenny/TTRenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
